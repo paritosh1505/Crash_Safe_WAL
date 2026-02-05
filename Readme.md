@@ -1,0 +1,1 @@
+Commit 1 - A RAII wrapper for a file descriptor that enforces unique ownership, disables copying, supports move semantics, and automatically closes the descriptor in the destructor.
